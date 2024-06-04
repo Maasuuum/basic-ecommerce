@@ -11,4 +11,7 @@
         min-height: 50px;
         flex-direction: column;
     }
+    .products-container{
+        grid-template-columns: 1f;
+    }
 }
